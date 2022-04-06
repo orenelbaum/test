@@ -4,7 +4,7 @@
   "description": "test description",
   "info": "test info",
   "private": true,
-  "license": "asdas",
+  "license": "MIT",
   "contributors": [
     {
       "name": "a",
